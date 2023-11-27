@@ -1,4 +1,4 @@
 public enum TipoForma {
-    TRIANGOLO,
-    RETTANGOLO
+    RETTANGOLO,
+    TRIANGOLO
 }
